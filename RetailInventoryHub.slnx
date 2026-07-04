@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RetailInventoryHub.Data/RetailInventoryHub.Data.csproj" Id="d4479355-e9ed-4e7c-84d9-9f76c3c09fea" />
+  <Project Path="RetailInventoryHub.Tests/RetailInventoryHub.Tests.csproj" />
+  <Project Path="RetailInventoryHub.UI/RetailInventoryHub.UI.csproj" Id="6e7c9df2-085d-4d61-bf06-74877748f2ff" />
+</Solution>
