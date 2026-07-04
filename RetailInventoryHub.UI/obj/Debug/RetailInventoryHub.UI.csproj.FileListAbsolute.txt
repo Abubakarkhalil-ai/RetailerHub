@@ -1,0 +1,17 @@
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.UI.exe.config
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.UI.exe
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.UI.pdb
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\EntityFramework.dll
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.Data.dll
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.Data.pdb
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\RetailInventoryHub.Data.dll.config
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\EntityFramework.xml
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.csproj.AssemblyReference.cache
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.Properties.Resources.resources
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.csproj.GenerateResource.cache
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.csproj.CoreCompileInputs.cache
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailIn.31EDE89F.Up2Date
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.exe
+C:\Users\hamma\Desktop\RetailInventoryHub\RetailInventoryHub.UI\obj\Debug\RetailInventoryHub.UI.pdb
